@@ -17,9 +17,20 @@
                 <script type="text/javascript" src="textHover.js">/**/</script>
             </head>
             <body>
-                    <div id="header">                                    
-                    <xsl:comment>#include virtual="navBar.html"</xsl:comment>
+                <div id="header">                                    
+                    <xsl:comment>AZ: Nav bar</xsl:comment>
+                    <div id="master_bar">
+                        <a href="index.html">Home</a>
+                        <a href="about.html">About</a>
+                        <a href="texts.html">Texts</a>
+                        <a href="Analysis.html">Analysis</a>
+                        <a href="ambiguity_table.html">Ambiguity Table</a>
+                        <a  class="right" rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+                            <img alt="Creative Commons License" style="border-width:0"
+                                src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png"/>
+                        </a>
                     </div>
+                </div>
                 <div id="text">
                     <p><xsl:apply-templates select="//epigraph"/></p>
                     <xsl:apply-templates select="//text"/>
