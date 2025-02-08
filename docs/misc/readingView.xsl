@@ -18,7 +18,14 @@
         <link rel="stylesheet" type="text/css" href="Love_Code.css"/>
           </head>
               <body>
-                  <!--#include virtual="headerSSI.html" -->
+                  <!-- Menu bar -->
+                  <div id="master_bar">
+                      <a href="Lovecraft_Site.xhtml">Home</a>
+                      <a href="about.html">About</a>
+                      <a href="ATMOM.html">At the Mountains of Madness</a>
+                      <a href="TSOI.html">The Shadow over InnsMouth</a>
+                      <a href="TCOC.html">The Call of Cthulhu</a>
+                  </div>
                   
                  <div id="page">
                  <div id="body"> 
