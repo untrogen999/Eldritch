@@ -21,6 +21,6 @@ server to insert HTML code from other files) to break up pieces of web pages, su
 bar, across files and include them into other files as needed. Since we can't do that with Github
 Pages, the full HTML is included in the HTML instead.
 
-This revival project and all its files are licensed under [CC BY-NC
-4.0](https://creativecommons.org/licenses/by-nc/4.0/). The original project repo, if you're
-interested, is hosted also on Github, but it does not use Github Pages: https://github.com/PPH3/Eldritch
+This revival project and all its files are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+The original project repo, if you're interested, is hosted also on Github, but it does not use Github Pages:
+[https://github.com/PPH3/Eldritch](https://github.com/PPH3/Eldritch)
